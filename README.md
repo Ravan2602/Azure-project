@@ -1,7 +1,16 @@
-# AzureProject
+# online food ordering system
 Online Food Ordering System In Azure
 #Azure Online Food Ordering System Project
 This repository contains the setup and configuration for an online food ordering system deployed on Azure. The project involves the creation of two virtual machines (Server1 and Server2) running Ubuntu Server, the installation of the Apache2 server, and the setup of a MySQL database on both servers. Additionally, Azure Traffic Manager, Azure Monitoring Service, and DNS Zones are used to manage and monitor the deployment.
+
+Sevices Used:
+1)Traffic Manager:
+In Microsoft Azure, a Traffic Manager is a service that allows you to distribute traffic across multiple endpoints (such as Azure regions, Azure App Service instances, or external, non-Azure endpoints) based on various routing methods. It is used to improve the availability and responsiveness of your applications by directing user traffic to the most suitable endpoint. 
+2)Monitor Alert Rules: 
+In Microsoft Azure, a Monitor Alert Rule is a configuration that you can set up to monitor various Azure resources for specific conditions or criteria, and then trigger an action (such as sending an email or running an Azure Function) when those conditions are met. Alert rules are part of Azure Monitor, which is a centralized monitoring and management service for Azure resources.
+3)DNS Zones:
+DNS Zones, in the context of Domain Name System (DNS), refer to distinct areas within the DNS namespace where DNS records are stored and managed. Each DNS zone contains a collection of DNS records that define the mapping between domain names and IP addresses, among other things. DNS Zones are organized hierarchically, and they are crucial for managing the domain name resolution process on the internet
+
 
 ##Project Components
 Virtual Machines
