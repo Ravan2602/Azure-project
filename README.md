@@ -100,6 +100,10 @@ www.kyutorn.site is configured to point to the online food ordering system.
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/c9bbafe4-bb4b-4a69-b49c-cf86988ad3bf)
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/db201590-c920-4f49-b8e8-f0c4624712b0)
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/6ba02da7-f2cc-4ac6-96f3-11cc7087f755)
+
+output overview :
+
+
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/f9ec7493-1445-419c-bec6-8103492e059c)
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/203adcae-3437-4dc3-a3a3-9c7e9b8c3485)
 ![image](https://github.com/Ravan2602/Azure-project/assets/111184375/8638456e-444f-4f11-bde5-ec178783efa8)
